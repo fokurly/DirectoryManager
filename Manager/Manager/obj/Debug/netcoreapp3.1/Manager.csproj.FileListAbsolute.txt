@@ -1,0 +1,31 @@
+C:\Users\buval\source\repos\Manager\Manager\bin\Debug\netcoreapp3.1\Manager.exe
+C:\Users\buval\source\repos\Manager\Manager\bin\Debug\netcoreapp3.1\Manager.deps.json
+C:\Users\buval\source\repos\Manager\Manager\bin\Debug\netcoreapp3.1\Manager.runtimeconfig.json
+C:\Users\buval\source\repos\Manager\Manager\bin\Debug\netcoreapp3.1\Manager.runtimeconfig.dev.json
+C:\Users\buval\source\repos\Manager\Manager\bin\Debug\netcoreapp3.1\Manager.dll
+C:\Users\buval\source\repos\Manager\Manager\bin\Debug\netcoreapp3.1\Manager.pdb
+C:\Users\buval\source\repos\Manager\Manager\obj\Debug\netcoreapp3.1\Manager.AssemblyInfoInputs.cache
+C:\Users\buval\source\repos\Manager\Manager\obj\Debug\netcoreapp3.1\Manager.AssemblyInfo.cs
+C:\Users\buval\source\repos\Manager\Manager\obj\Debug\netcoreapp3.1\Manager.dll
+C:\Users\buval\source\repos\Manager\Manager\obj\Debug\netcoreapp3.1\Manager.pdb
+C:\Users\buval\source\repos\Manager\Manager\obj\Debug\netcoreapp3.1\Manager.genruntimeconfig.cache
+C:\Users\buval\source\repos\Manager\Manager\obj\Debug\netcoreapp3.1\Manager.csprojAssemblyReference.cache
+C:\Users\buval\source\repos\Manager\Manager\obj\Debug\netcoreapp3.1\Manager.csproj.CoreCompileInputs.cache
+C:\Users\buval\source\repos\Manager\Manager\bin\Debug\netcoreapp3.1\Ude.dll
+C:\Users\buval\source\repos\Manager\Manager\obj\Debug\netcoreapp3.1\Manager.csproj.CopyComplete
+C:\Users\buval\OneDrive\Рабочий стол\Первый курс C#\Manager\Manager\bin\Debug\netcoreapp3.1\Manager.exe
+C:\Users\buval\OneDrive\Рабочий стол\Первый курс C#\Manager\Manager\bin\Debug\netcoreapp3.1\Manager.deps.json
+C:\Users\buval\OneDrive\Рабочий стол\Первый курс C#\Manager\Manager\bin\Debug\netcoreapp3.1\Manager.runtimeconfig.json
+C:\Users\buval\OneDrive\Рабочий стол\Первый курс C#\Manager\Manager\bin\Debug\netcoreapp3.1\Manager.runtimeconfig.dev.json
+C:\Users\buval\OneDrive\Рабочий стол\Первый курс C#\Manager\Manager\bin\Debug\netcoreapp3.1\Manager.dll
+C:\Users\buval\OneDrive\Рабочий стол\Первый курс C#\Manager\Manager\bin\Debug\netcoreapp3.1\Manager.pdb
+C:\Users\buval\OneDrive\Рабочий стол\Первый курс C#\Manager\Manager\bin\Debug\netcoreapp3.1\Ude.dll
+C:\Users\buval\OneDrive\Рабочий стол\Первый курс C#\Manager\Manager\obj\Debug\netcoreapp3.1\Manager.csproj.AssemblyReference.cache
+C:\Users\buval\OneDrive\Рабочий стол\Первый курс C#\Manager\Manager\obj\Debug\netcoreapp3.1\Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buval\OneDrive\Рабочий стол\Первый курс C#\Manager\Manager\obj\Debug\netcoreapp3.1\Manager.AssemblyInfoInputs.cache
+C:\Users\buval\OneDrive\Рабочий стол\Первый курс C#\Manager\Manager\obj\Debug\netcoreapp3.1\Manager.AssemblyInfo.cs
+C:\Users\buval\OneDrive\Рабочий стол\Первый курс C#\Manager\Manager\obj\Debug\netcoreapp3.1\Manager.csproj.CoreCompileInputs.cache
+C:\Users\buval\OneDrive\Рабочий стол\Первый курс C#\Manager\Manager\obj\Debug\netcoreapp3.1\Manager.csproj.CopyComplete
+C:\Users\buval\OneDrive\Рабочий стол\Первый курс C#\Manager\Manager\obj\Debug\netcoreapp3.1\Manager.dll
+C:\Users\buval\OneDrive\Рабочий стол\Первый курс C#\Manager\Manager\obj\Debug\netcoreapp3.1\Manager.pdb
+C:\Users\buval\OneDrive\Рабочий стол\Первый курс C#\Manager\Manager\obj\Debug\netcoreapp3.1\Manager.genruntimeconfig.cache
