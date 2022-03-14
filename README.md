@@ -1,0 +1,2 @@
+# DirectoryManager
+Desktop directory manager.
